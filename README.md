@@ -10,6 +10,7 @@ In this data we analysis bank churn data by using Power Bi
 * Loading / Transforming the data.
   
 * Data Cleaning.
+  
   In this cleaning steps involved.
   
       * Checking Data types.
