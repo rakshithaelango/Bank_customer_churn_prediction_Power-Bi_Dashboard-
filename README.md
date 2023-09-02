@@ -46,6 +46,10 @@ In this data we analysis bank churn data by using Power Bi
       * Stacked Column chart : Used for Customers by Products.
   
       * Line chart : Used for Total Lost customers by Gender.
+
+  ## Dashboard Visual:
+
+  ![1693640036119](https://github.com/rakshithaelango/Bank_customer_churn_prediction_Power-Bi_Dashboard-/assets/116090323/55cec54e-39b5-419e-ad67-3704229af1ba)
     
 ## For Data set Refer Kaggle link:
     https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
